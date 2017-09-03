@@ -1,0 +1,5 @@
+
+Nothing in this folder is required, it's just a collection of extra advanced topics and potentially useful information regarding real-world applications of STM32 MCUs. For instance, there are design considerations and tips 'n' tricks here, in addition to details on subsystems not covered in the course. Predominantly for those interested in working with the platform further.
+
+Source of these docs:
+http://www.st.com/content/st_com/en/support/resources/resource-selector.html?querycriteria=productId=SS1858$$resourceCategory=technical_literature$$resourceType=application_note

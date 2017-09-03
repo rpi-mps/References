@@ -1,0 +1,6 @@
+All the PDFs sitting in this folder are for final release.
+
+The recommended course text is "Mastering STM32" by Carmine Noviello on Leanpub:
+https://leanpub.com/mastering-stm32
+
+It's $30, and once you own it there's no silly expiration dates or anything like that--you just buy the PDF and that's it. Note: There's no physical version.

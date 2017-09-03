@@ -1,0 +1,7 @@
+Miscellaneous Advanced Facts about the STM32F769I-DISCO:
+
+(#) In theory, GPIOs can be toggled in 2 cycles (108 MHz) at the fastest setting (a.k.a. using inline assembly), so plan accordingly if going that route.
+
+(#) The GPIO_InitTypeDef "Speed" parameter actually controls the slew rate of the GPIO toggle.
+
+(#) The USB drive that plugging in the DISCO board creates is actually not a USB drive: You can copy program binaries (.bin files) to it as though it were a normal USB flashdrive and the board will self-program. It's called the "drag 'n' drop programming interface."
