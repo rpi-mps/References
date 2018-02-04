@@ -1,5 +1,5 @@
 # References
-RPI Microprocessor Systems Repository for STM32F769I-Discovery Kit: References
+Programming References for RPI Microprocessor Systems using the STM32F769I-Discovery kit.
 
 This repository contains all of the programming documentation for the course (excluding the lab documents themselves, which are in each lab's respective folder).
 
