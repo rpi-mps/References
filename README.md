@@ -1,8 +1,6 @@
 # References
 RPI Microprocessor Systems Repository for STM32F769I-Discovery Kit: References
 
-This repository contains all the documentation for the course (excluding the labs themselves, which are in each lab's respective folder).
+This repository contains all of the programming documentation for the course (excluding the lab documents themselves, which are in each lab's respective folder).
 
-One additional reference should be purchased from here:
-https://leanpub.com/mastering-stm32
-It's definitely one of the more important resources, and well worth the price.
+"Mastering STM32" can be purchased from here: https://leanpub.com/mastering-stm32. It is definitely one of the more important resources and is well worth the price.
